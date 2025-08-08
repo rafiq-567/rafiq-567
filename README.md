@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/4FR6sQf/github-banner.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/wZJxDwMT/Black-and-Teal-Modern-Web-Developer-Presentation.jpg">
 </p>
 
 # 👋 Hi, I'm Md. Rafiqul Akhter  
