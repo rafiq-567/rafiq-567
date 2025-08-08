@@ -46,7 +46,7 @@ Currently, I’m expanding my skills in backend technologies to become a full-st
   <a href="https://github.com/rafiq-567" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/md-rafiqul-akhter-b39610379/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
