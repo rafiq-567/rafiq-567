@@ -54,9 +54,12 @@ I've built and deployed **10+ real-world projects** using modern technologies, w
 
 | Project | Description | Tech | Live |
 |--------|-------------|------|------|
+| **Lawyer Platform** | Legal service management system | Next.js, PostgreSQL, TS | https://mamla-manager.vercel.app/ |
+| **Furniture E-Commerce** | BigBoom is a modern furniture e-commerce web application *(in progress)* | Prisma, TS, PostGreSQL | https://big-boom.vercel.app/ |
+| **Real-time Inventory Tracking** | A modern product management system enabling real-time inventory tracking and updates | Redux Toolkit, RTK Query, Firestore, TS | https://eagle3d-frontend-one.vercel.app/ |
 | **Medicine E-Commerce** | Multi-vendor platform for medicines with expert advice system | MERN, JWT | https://health-hub-7c64c.web.app/ |
-| **Tour Management System** | Team-built travel booking platform with admin dashboard | MERN, Firebase | [Live](#) |
-| **Lawyer Platform** | Legal service management system *(in progress)* | Next.js, PostgreSQL, TS | [Live](#) |
+| **Tour Management System** | Team-built travel booking platform with admin dashboard | MERN, Next.js | https://tour-management-system-team-ultimat.vercel.app/ |
+
 
 > 📂 See all projects on my [Portfolio](https://my-portfolio-sable-gamma-95.vercel.app/)
 
